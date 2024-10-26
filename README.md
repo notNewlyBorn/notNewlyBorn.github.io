@@ -1,3 +1,9 @@
-# notNewlyBorn.github.io
+---
+marp: true
+---
 
-git for good
+# git
+
+Fundamentals & more
+
+
